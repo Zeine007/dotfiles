@@ -1,0 +1,16 @@
+/**
+ *
+ * Author : Zeine 009
+ * Github : 
+ * 
+ * Colors
+ **/
+
+* {
+    background:     #1C254E;
+    background-alt: #1C254E;
+    foreground:     #FEE002;
+    selected:       #FEE002;
+    active:         #FEE002;
+    urgent:         #FEE002;
+}
