@@ -1,0 +1,5 @@
+librewolf
+yazi
+nvim
+feh
+
