@@ -1,7 +1,5 @@
 # Properties not preceded by a section are considered global
 # and merged into every section declarations.
-foo=bar
-
 [batterybar]
 
 command=~/.config/i3blocks/scripts/batterybar
